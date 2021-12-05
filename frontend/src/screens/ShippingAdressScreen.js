@@ -45,7 +45,7 @@ export default function ShippingAdressScreen(props) {
           />
         </div>
         <div>
-          <label htmlFor="address">Full Name</label>
+          <label htmlFor="address">Address</label>
           <input
             type="text"
             id="address"
@@ -56,7 +56,7 @@ export default function ShippingAdressScreen(props) {
           />
         </div>
         <div>
-          <label htmlFor="city">Full Name</label>
+          <label htmlFor="city">City</label>
           <input
             type="text"
             id="city"
@@ -67,7 +67,7 @@ export default function ShippingAdressScreen(props) {
           />
         </div>
         <div>
-          <label htmlFor="postalCode">Full Name</label>
+          <label htmlFor="postalCode">Postal Code</label>
           <input
             type="text"
             id="postalCode"
@@ -78,7 +78,7 @@ export default function ShippingAdressScreen(props) {
           />
         </div>
         <div>
-          <label htmlFor="country">Full Name</label>
+          <label htmlFor="country">Country</label>
           <input
             type="text"
             id="country"

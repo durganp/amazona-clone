@@ -73,4 +73,3 @@ export default function SigninScreen(props) {
     </div>
   );
 }
-console.log(localStorage);
